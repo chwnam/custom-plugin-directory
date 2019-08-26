@@ -15,12 +15,14 @@ autocomplete
 autoload
 autoloading
 autosave
+bacs
 basepath
 bindec
 blogname
 bulkactions
 cdnjs
 categorydiv
+centerscreen
 changwoo
 cidr
 clearfix
@@ -61,6 +63,7 @@ jpegoptim
 jqueryui
 jsdelivr
 kakao
+kakaotalk
 kses
 metabox
 metaboxes
@@ -71,6 +74,7 @@ millisec
 minified
 monthnum
 mootools
+muplugins
 nopaging
 nopriv
 numberposts
@@ -83,6 +87,7 @@ paragonie
 parsedown
 phpcodesniffer
 phpcompatibility
+phpcs
 pluggable
 pngquant
 postcustom
@@ -98,6 +103,7 @@ resized
 revalidate
 revisionsdiv
 setenvif
+shoplic
 shortcode
 shortcodes
 sitepress
@@ -114,16 +120,19 @@ tagcloud
 tagsdiv
 textarea
 textdomain
+thankyou
 timepicker
 tinymce
 tmpl
-tuew
+trackbacks
 typenow
 ucwords
 umeta
 uname
 uncategorized
 unfollow
+urldecode
+urlencode
 vimeo
 widefat
 woocommerce

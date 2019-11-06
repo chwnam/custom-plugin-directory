@@ -34,9 +34,11 @@ clearfix
 commentmeta
 commentsdiv
 contactmethods
+cosmosfarm
 dashicon
 dashicons
 datepicker
+daterangepicker
 datetimepicker
 daum
 dealerdirect
@@ -68,6 +70,7 @@ instagram
 intval
 ismap
 itemid
+itemmeta
 itemprop
 itemref
 itemscope
@@ -77,11 +80,13 @@ jpegoptim
 jqueryui
 jsdelivr
 kakao
+kakaostory
 kakaotalk
 kses
 metabox
 metaboxes
 multisite
+naver
 netmask
 nicename
 microsec
@@ -95,6 +100,9 @@ nopaging
 nopriv
 numberposts
 oembed
+officedocument
+opendocument
+openxmlformats
 optipng
 orderby
 pagename
@@ -106,6 +114,9 @@ phpcodesniffer
 phpcompatibility
 phpcs
 phpmyadmin
+phpoffice
+phpspreadsheet
+picturefill
 pluggable
 pngquant
 postcustom
@@ -113,6 +124,7 @@ postdivrich
 postimagediv
 postmeta
 prefilter
+printf
 qtip
 qtipcall
 rainboard
@@ -120,6 +132,8 @@ resize
 resized
 revalidate
 revisionsdiv
+screenoptionnonce
+searchform
 sectionend
 setenvif
 shoplic
@@ -127,6 +141,8 @@ shortcode
 shortcodes
 shortlink
 sitepress
+spreadsheetml
+stati
 subdomain
 subsubsub
 submitbox
@@ -173,5 +189,6 @@ wpml
 wpnonce
 wptexturize
 wsod
+xlsx
 ymdhis
 zepto

@@ -49,6 +49,7 @@ daterangepicker
 datetimepicker
 daum
 dealerdirect
+dispatchable
 doaction
 doubleval
 dropdown
@@ -99,7 +100,9 @@ kakao
 kakaostory
 kakaotalk
 kses
+kwargs
 manageedit
+mbstring
 metabox
 metaboxes
 microsec
@@ -146,11 +149,13 @@ postdivrich
 postimagediv
 postmeta
 postpass
+postposition
 prefilter
 printf
 qtip
 qtipcall
 rainboard
+relpath
 resize
 resized
 revalidate
@@ -170,6 +175,7 @@ spreadsheetml
 squizlabs
 stati
 strval
+subdir
 subdomain
 submitbox
 submitdelete
@@ -198,6 +204,7 @@ umeta
 uname
 uncategorized
 unfollow
+unserialize
 unserialized
 unslash
 untrashed

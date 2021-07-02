@@ -160,6 +160,7 @@ resize
 resized
 revalidate
 revisionsdiv
+savequeries
 screenoptionnonce
 searchform
 sectionend
@@ -225,6 +226,7 @@ wpdm
 wpdmpro
 wpinc
 wpml
+wpms
 wpnonce
 wpseo
 wptexturize

@@ -23,6 +23,7 @@ autosave
 bacs
 basepath
 bindec
+blogdescription
 blogname
 boolval
 buddicons
@@ -53,6 +54,7 @@ dispatchable
 doaction
 doubleval
 dropdown
+egrep
 elementor
 enlighter
 epmask
@@ -73,7 +75,10 @@ gform
 gifsicle
 gitkeep
 gmail
+grep
 groupby
+gzdecode
+gzencode
 hant
 hasher
 hatena
@@ -101,6 +106,7 @@ kakaostory
 kakaotalk
 kses
 kwargs
+mailserver
 manageedit
 mbstring
 metabox
@@ -142,6 +148,7 @@ phpmyadmin
 phpoffice
 phpspreadsheet
 picturefill
+pingback
 pluggable
 pngquant
 postcustom
@@ -169,8 +176,10 @@ shortcode
 shortcodes
 shortlink
 sitepress
+siteurl
 slugdiv
 slugify
+smilies
 spreadsheetml
 squizlabs
 stati
@@ -194,6 +203,7 @@ thankyou
 timepicker
 tinymce
 tmpl
+trackback
 trackbacks
 trailingslashit
 trid

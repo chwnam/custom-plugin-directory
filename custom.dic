@@ -120,6 +120,7 @@ multisite
 muplugins
 naran
 naver
+nbpc
 netmask
 nicename
 nomodule
@@ -146,9 +147,11 @@ phpcompatibility
 phpcs
 phpmyadmin
 phpoffice
+phpseclib
 phpspreadsheet
 picturefill
 pingback
+playsinline
 pluggable
 pngquant
 postcustom
@@ -184,8 +187,10 @@ smilies
 spreadsheetml
 squizlabs
 stati
+strlen
 strval
 subdir
+subdirs
 subdomain
 submitbox
 submitdelete
@@ -215,6 +220,7 @@ umeta
 uname
 uncategorized
 unfollow
+uninstall
 unserialize
 unserialized
 unslash
